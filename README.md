@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lenilson Bastida
+# 👋 Olá! Eu sou o Lenilson
 
 Sou Analista de QA com experiência em estratégias de teste, criação e execução de cenários baseados em técnicas como partição de equivalência, análise de valor limite e tabelas de decisão, além de testes exploratórios. Tenho como foco a melhoria contínua da qualidade, contribuindo com métricas relevantes para apoiar decisões estratégicas.
 
