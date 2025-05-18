@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou o Lenilson Bastida
 
-Atuo na Metryx Tecnologia como Analista de QA, concentrando-me em estratégias de teste, escrita e execução de cenários/casos de testes baseados em técnicas, como: partição de equivalência, análise de valor limite, tabela de decisão etc. Com foco na melhoria contínua, levantando e fornecendo métricas para a tomada de decisões da gestão.
+Sou Analista de QA com experiência em estratégias de teste, criação e execução de cenários baseados em técnicas como partição de equivalência, análise de valor limite e tabelas de decisão, além de testes exploratórios. Tenho como foco a melhoria contínua da qualidade, contribuindo com métricas relevantes para apoiar decisões estratégicas.
 
-Atualmente, estou aprofundando meus conhecimentos em automação de testes com Cypress, e fui aprovado na certificação CTFL.
+Atualmente, estou me aprofundando em automação de testes com Cypress e conquistei a certificação CTFL (Certified Tester Foundation Level).
 
-Estou sempre em busca de novos desafios e oportunidades para contribuir com minha expertise em qualidade de software e automação de testes.
+Sou movido por desafios e estou sempre em busca de oportunidades para aplicar e expandir minha expertise em qualidade de software e automação de testes.
 
 ---
 
